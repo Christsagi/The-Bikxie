@@ -1,0 +1,2 @@
+Bikxie
+“Bikxie" is an application designed to simplify ride transactions by eliminating commission fees. It connects customers and passengers directly, enabling them to interact without middlemen. The app uses C# WinForms for its interface, ADO.NET for database communication, and MS SQL Server to store and manage all the necessary data like user details, ride bookings, and payments. The main goal of the project is to make rides more affordable for customers and profitable for drivers, ensuring a fair and direct deal for both parties.
